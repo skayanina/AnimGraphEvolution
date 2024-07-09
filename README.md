@@ -1,5 +1,6 @@
 # Uwa!! AnimGraphEvolution!  
-This is a fork trying to apply edho08's Animation Patch for **Skyrim Together Reborn *1.6.7(24/JULY/9)***  
+This is a fork trying to apply edho08's Animation Patch for **Skyrim Together Reborn 1.6.7**  
+(24/JULY/9)  
 > [!IMPORTANT]
 > Might be abandoned after build since I'm doing this for my Co-oP run only :3  
   
