@@ -3,10 +3,10 @@ This is a fork from **rfortier's Skyrim Together Reborn 1.6.7**
 > [!IMPORTANT]
 > I forked this for my own modding project, please follow rfortier's build If you're looking for a stable one
   
-Upstream(rfortier)
-https://github.com/rfortier/TiltedEvolution-rwf
+Upstream(rfortier)  
+https://github.com/rfortier/TiltedEvolution-rwf  
 The OG  
-https://github.com/edho08/TiltedEvolution/tree/add-modded-animgraph
+https://github.com/edho08/TiltedEvolution/tree/add-modded-animgraph  
 **this work is an extension of contributions from Edho08, MostExcellent, Spvvd, and ragley.**
   
 # Tilted Online
