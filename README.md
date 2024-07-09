@@ -3,7 +3,10 @@ This is a fork trying to apply edho08's Animation Patch for **Skyrim Together Re
 (24/JULY/9)  
 > [!IMPORTANT]
 > Might be abandoned after build since I'm doing this for my Co-oP run only :3  
-  
+
+
+The OG  
+https://github.com/edho08/TiltedEvolution/tree/add-modded-animgraph
   
   
 # Tilted Online
