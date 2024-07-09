@@ -1,14 +1,10 @@
-# This is a fork trying to apply edho08's Animation Patch for Skyrim Together Reborn(24/JULY/4)
+# Uwa!! AnimGraphEvolution!
+#
+## This is a fork trying to apply edho08's Animation Patch for Skyrim Together Reborn(24/JULY/4)
 ## Might be abandoned after build since I'm using it for my Co-oP run only :3
-
-
-
-
-
-
-
-
-
+#
+#
+#
 
 
 # Tilted Online
