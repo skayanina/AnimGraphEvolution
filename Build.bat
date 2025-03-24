@@ -1,5 +1,5 @@
 xmake project -k vsxmake
-xmake config -m releasedbg
+xmake config -m release
 xmake -y
 xmake install -o distrib
 xcopy /e /y distrib\bin\ build\windows\x64\releasedbg
